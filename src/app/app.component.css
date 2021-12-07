@@ -1,0 +1,17 @@
+.card{
+    margin-top: 50px;
+    margin-left:200px;
+    margin-right:200px;
+   
+}
+p{
+    padding-top:20px ;
+  
+}
+.groupinput{
+display: block;
+}
+input[type=text],[type=submit]{
+    margin-right: 5px;
+
+}
